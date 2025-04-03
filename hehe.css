@@ -1,0 +1,27 @@
+*{
+    background-color:black;
+    color:beige;
+}
+h5{
+    color:orchid;
+    font-size: 50px;
+    font-family: cursive;
+    background-color: lightgreen;
+}
+h6{
+    color:aqua;
+    font-size: 50px;
+    font-family: cursive;
+    background-color:lightcoral;
+}
+
+h4{
+    color:khaki;
+    font-family: cursive;
+    font-size: 40px;
+    
+}
+
+h3{
+    font-family: fantasy;
+}
